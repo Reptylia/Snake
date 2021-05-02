@@ -1,0 +1,39 @@
+.MainFrame {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: 2px solid;
+
+}
+
+.line1 {
+    width: 500px;
+    height: 100px;
+
+}
+.line2 {
+    width: 500px;
+    height: 100px;
+    
+
+}
+.line3 {
+    width: 500px;
+    height: 100px;
+}
+.line4 {
+    width: 500px;
+    height: 100px;
+
+}
+.line5 {
+    width: 500px;
+    height: 100px;
+}
+
+.cube {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
